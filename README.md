@@ -1,16 +1,21 @@
-## Hi there 👋
+# About Me
 
-<!--
-**smart-dev-arch/smart-dev-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages & Frameworks
 
-Here are some ideas to get you started:
+![My Skills](https://skillicons.dev/icons?i=go,python,java,js,ts,nodejs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend & Application Development
+
+![Backend](https://skillicons.dev/icons?i=python,nodejs,django,fastapi,spring)
+
+### Frontend Development
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css)
+
+### Cloud, DevOps & Engineering Tools
+
+![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github,linux,vscode)
+
+### Databases & Data Technologies
+
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis)
