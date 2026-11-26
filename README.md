@@ -1,5 +1,3 @@
-# About Me
-
 ### Languages & Frameworks
 
 ![My Skills](https://skillicons.dev/icons?i=go,python,java,js,ts,nodejs)
